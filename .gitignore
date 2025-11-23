@@ -1,6 +1,7 @@
 __pycache__/
 venv/
 .venv/
+.idea/
 results/
 .playwright/
 allure-results/
